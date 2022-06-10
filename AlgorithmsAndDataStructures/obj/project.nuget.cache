@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gu1iHB8tBxApec6F2V1LwsNDyfLls753+0/LOD/imTmd+/+2BbkPvehlftwd4AfTbLuYfp+DN1BdMCVZtMG+cQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\navde\\OneDrive\\Desktop\\SD290\\AlgorithmsAndDataStructures\\AlgorithmsAndDataStructures\\AlgorithmsAndDataStructures.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\navde\\.nuget\\packages\\microsoft.netcore.app.host.win-arm64\\6.0.5\\microsoft.netcore.app.host.win-arm64.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
